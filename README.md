@@ -1,12 +1,14 @@
 # list-my-movies
 
-This is one of the apps made in Udemy's iOS course "iOS 9 and Swift 2: From Beginner to Paid Professional". I want to do a little more than the requirements so I added web requests (OMDB API and themoviedb API) and json parsing.
+In this app the user can search for a movie and see the movie's information. 
+It is also possible to add the movie to a favourites list or to a watchlist.
+
 This app covers the following fields:
 * UITableView
 * UIImagePicker
 * Core Data
 * Webkit (WKWebView)
-* Web Requests & json parsing
+* Web Requests (OMDB API and themoviedb API) & json parsing
 
 Screenshots:
 
